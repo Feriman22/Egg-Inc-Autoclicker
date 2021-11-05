@@ -16,7 +16,7 @@
 - Restart the game if crashed
 - Trim memory in every run (free up memory)
 
-# Additional things that you have to know:
+# How to use:
 
 - I created this script with v6.2.6.4 of [Automatic Mouse and Keyboard](https://www.robot-soft.com/automatic-mouse-keyboard.html), use this version or newer.
 - Use [BlueStack](https://www.bluestacks.com/) as an Android emulator. It may work with other emulators as well, but has not been tested
