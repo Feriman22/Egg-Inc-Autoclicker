@@ -1,5 +1,5 @@
 # Egg-Inc-Autoclicker
-Autoclicker for Egg Inc. Android game
+![header](https://raw.githubusercontent.com/Feriman22/Egg-Inc-Autoclicker/main/egg-inc-autoclicker.jpg)
 
 **The story of this script**: https://feriman.com/egg-inc-autoclicker/
 
