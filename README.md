@@ -18,8 +18,8 @@
 
 # Additional things that you have to know:
 
-- I created this script with v6.2.6.4 of Automatic Mouse and Keyboard, use this version or newer.
-- Use BlueStack as an Android emulator. It may work with other emulators as well, but has not been tested
+- I created this script with v6.2.6.4 of [Automatic Mouse and Keyboard](https://www.robot-soft.com/automatic-mouse-keyboard.html), use this version or newer.
+- Use [BlueStack](https://www.bluestacks.com/) as an Android emulator. It may work with other emulators as well, but has not been tested
 - Start the emulator before running the script
 - All included pictures optimized for 1920x1080 resolution. If you use a different one, may you have to recognize pictures again
 - Run the emulator in full screen
