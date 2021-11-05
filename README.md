@@ -16,6 +16,8 @@
 - Restart the game if crashed
 - Trim memory in every run (free up memory)
 
+It can make the maximum reachable money and collect ~500 golden eggs in every hour without effort.
+
 # How to use:
 
 - I created this script with v6.2.6.4 of [Automatic Mouse and Keyboard](https://www.robot-soft.com/automatic-mouse-keyboard.html), use this version or newer.
