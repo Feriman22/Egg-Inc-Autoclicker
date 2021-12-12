@@ -3,7 +3,7 @@
 
 **The story of this script**: https://feriman.com/egg-inc-autoclicker/
 
-**How it works?** [Youtube video](https://youtu.be/oVEqUSurcgk)
+**How does it work?** [Youtube video](https://youtu.be/oVEqUSurcgk)
 
 
 # Features:
@@ -16,14 +16,14 @@
 - Restart the game if crashed
 - Trim memory in every run (free up memory)
 
-It can make the maximum reachable money and collect ~500 golden eggs in every hour without effort.
+It can make the maximum reachable money and collect ~500 golden eggs every hour without effort.
 
 # How to use:
 
 - I created this script with v6.2.6.4 of [Automatic Mouse and Keyboard](https://www.robot-soft.com/automatic-mouse-keyboard.html), use this version or newer.
 - Use [BlueStack](https://www.bluestacks.com/) as an Android emulator. It may work with other emulators as well, but has not been tested
 - Start the emulator before running the script
-- All included pictures optimized for 1920x1080 resolution. If you use a different one, may you have to recognize pictures again
+- All included pictures have been optimized for 1920x1080 resolution. If you use a different one, may you have to recognize pictures again
 - Run the emulator in full screen
 - Set the "Home" shortcut to "Crtl + Shift + H" in BlueStack
 - Do not use the computer while the script runs. Press "Shift + F2" to stop it.
